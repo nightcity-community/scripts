@@ -1,0 +1,12 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="Monthly">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="pt-br" />
+    </Product>
+  </Add>
+  <Display Level="None" />
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="PinIconsToTaskbar" Value="False" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="0" />
+</Configuration>
